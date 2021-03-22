@@ -9,6 +9,11 @@ There will be three pages;
 - projects.html
 - contact.hmtl
 
+# Wireframes;
+![Home](https://share.balsamiq.com/c/qgwUsafFrv6n8ECs72a4mg.png)
+![Projects](https://share.balsamiq.com/c/b1v9stxqfJdGvX5Dxt5pGE.png)
+![Contact](https://share.balsamiq.com/c/aZeQRHAjPDTxiM6CWQ1Prs.png)
+
 ## UX 
 
 ## Features
