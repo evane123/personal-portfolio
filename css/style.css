@@ -1,0 +1,65 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color:#717171;
+}
+
+.page-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+    font-weight:75;
+}
+
+/*---------- Nav */
+
+.navalert-container {
+    position: absolute;
+    top: 0;
+    left: 30%;
+    z-index: 1;
+    padding-left:30%;
+    padding-right: 0;
+}
+
+.navbar {
+    margin-bottom: 0;
+    width: 40%;
+    background-color: rgba(0, 0, 0, .25);
+    border: 0;
+}
+
+.navbar .navbar-toggler {
+    border: 0;
+}
+
+.navbar .navbar-brand {
+    font-weight: bold;
+}
+
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
+/*---------- Nav End */
+
+/*----------  Profile Image */ 
+/*----------  Profile Image End */
+
+/*----------  About Me */ 
+/*----------  About Me End */
+
+/*----------  Work Exp. */ 
+/*----------  Work Exp. End */
+
+/*----------  Projects Description */ 
+/*----------  Projects Description End */
+
+/*----------  Project container*/ 
+/*----------  Project container End */
+
+/*----------  Footer */ 
+/*----------  Footer End */
